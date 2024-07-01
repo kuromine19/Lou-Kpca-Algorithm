@@ -1,0 +1,15 @@
+Sample Name,Title,Description,nas score,fibrosis stage,group in paper,disease,Stage
+GSM3998191,Liver patient 78,059-Ann-Daly_S12,6,4,NASH_F4,NAFLD,moderate
+GSM3998201,Liver patient 168,103-Ann-Daly_S3,8,4,NASH_F4,NAFLD,moderate
+GSM3998208,Liver patient 175,111-Ann-Daly_S3,5,4,NASH_F4,NAFLD,moderate
+GSM3998214,Liver patient 127,120-Ann-Daly_S9,6,4,NASH_F4,NAFLD,moderate
+GSM3998226,Liver patient 197,14_472_R1.fastq.gz,7,4,NASH_F4,NAFLD,moderate
+GSM3998227,Liver patient 23,141-Ann-Daly_S2,3,4,NASH_F4,NAFLD,moderate
+GSM3998230,Liver patient 90,155-Ann-Daly_S4,3,4,NASH_F4,NAFLD,moderate
+GSM3998242,Liver patient 189,19_138_R1.fastq.gz,5,4,NASH_F4,NAFLD,moderate
+GSM3998250,Liver patient 88,202-Ann-Daly_S7,5,4,NASH_F4,NAFLD,moderate
+GSM3998258,Liver patient 32,216-Ann-Daly_S1,2,4,NASH_F4,NAFLD,moderate
+GSM3998275,Liver patient 39,246-Ann-Daly_S14,1,4,NASH_F4,NAFLD,moderate
+GSM3998285,Liver patient 182,27_181_R1.fastq.gz,4,4,NASH_F4,NAFLD,moderate
+GSM3998332,Liver patient 190,6_139_R1.fastq.gz,8,4,NASH_F4,NAFLD,moderate
+GSM3998359,Liver patient 155,C133-Ann-Daly_S4,5,4,NASH_F4,NAFLD,moderate

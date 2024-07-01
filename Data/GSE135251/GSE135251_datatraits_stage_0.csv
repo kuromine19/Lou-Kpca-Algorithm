@@ -1,0 +1,47 @@
+Sample Name,Title,Description,nas score,fibrosis stage,group in paper,disease,Stage
+GSM3998171,Liver patient 105,031-Ann-Daly_S6,5,0,NASH_F0-F1,NAFLD,early
+GSM3998175,Liver patient 112,036-Ann-Daly_S11,2,0,NAFL,NAFLD,early
+GSM3998189,Liver patient 15,054-Ann-Daly_S10,5,0,NAFL,NAFLD,early
+GSM3998202,Liver patient 169,104-Ann-Daly_S4,5,0,NAFL,NAFLD,early
+GSM3998206,Liver patient 173,109-Ann-Daly_S1,6,0,NASH_F0-F1,NAFLD,early
+GSM3998213,Liver patient 195,12_469_R1.fastq.gz,4,0,NAFL,NAFLD,early
+GSM3998216,Liver control sample 2,127-Ann-Daly_S11,0,0,control,Control,control
+GSM3998217,Liver control sample 3,128-Ann-Daly_S12,0,0,control,Control,control
+GSM3998218,Liver control sample 5,129-Ann-Daly_S13,0,0,control,Control,control
+GSM3998219,Liver patient 196,13_470_R1.fastq.gz,2,0,NAFL,NAFLD,early
+GSM3998220,Liver control sample 6,130-Ann-Daly_S14,0,0,control,Control,control
+GSM3998221,Liver control sample 7,132-Ann-Daly_S15,0,0,control,Control,control
+GSM3998222,Liver control sample 8,133-Ann-Daly_S16,0,0,control,Control,control
+GSM3998223,Liver control sample 9,134-Ann-Daly_S1,0,0,control,Control,control
+GSM3998244,Liver patient 80,193-Ann-Daly_S2,3,0,NAFL,NAFLD,early
+GSM3998247,Liver patient 204,2_23_R1.fastq.gz,4,0,NAFL,NAFLD,early
+GSM3998249,Liver patient 87,201-Ann-Daly_S6,2,0,NAFL,NAFLD,early
+GSM3998254,Liver patient 5,208-Ann-Daly_S11,4,0,NAFL,NAFLD,early
+GSM3998266,Liver patient 36,238-Ann-Daly_S8,3,0,NASH_F0-F1,NAFLD,early
+GSM3998267,Liver patient 42,239-Ann-Daly_S9,2,0,NAFL,NAFLD,early
+GSM3998270,Liver patient 31,241-Ann-Daly_S2,4,0,NAFL,NAFLD,early
+GSM3998272,Liver patient 35,243-Ann-Daly_S11,3,0,NAFL,NAFLD,early
+GSM3998276,Liver patient 43,247-Ann-Daly_S15,2,0,NAFL,NAFLD,early
+GSM3998281,Liver patient 122,260-Ann-Daly_S4,1,0,NAFL,NAFLD,early
+GSM3998286,Liver patient 52,274-Ann-Daly_S10,2,0,NAFL,NAFLD,early
+GSM3998288,Liver patient 49,278-Ann-Daly_S12,2,0,NAFL,NAFLD,early
+GSM3998289,Liver patient 63,279-Ann-Daly_S13,3,0,NAFL,NAFLD,early
+GSM3998290,Liver patient 111,280-Ann-Daly_S14,4,0,NAFL,NAFLD,early
+GSM3998293,Liver patient 50,284-Ann-Daly_S2,3,0,NAFL,NAFLD,early
+GSM3998303,Liver patient 95,295-Ann-Daly_S11,1,0,NAFL,NAFLD,early
+GSM3998304,Liver patient 96,296-Ann-Daly_S12,2,0,NAFL,NAFLD,early
+GSM3998305,Liver patient 20,299-Ann-Daly_S13,1,0,NAFL,NAFLD,early
+GSM3998307,Liver patient 1,300-Ann-Daly_S14,1,0,NAFL,NAFLD,early
+GSM3998321,Liver patient 192,4_67_R1.fastq.gz,4,0,NASH_F0-F1,NAFLD,early
+GSM3998323,Liver patient 64,407-Ann-Daly_S13,4,0,NAFL,NAFLD,early
+GSM3998325,Liver patient 66,416-Ann-Daly_S2,4,0,NAFL,NAFLD,early
+GSM3998326,Liver patient 67,418-Ann-Daly_S15,2,0,NAFL,NAFLD,early
+GSM3998336,Liver patient 27,85-Ann-Daly_S10,2,0,NAFL,NAFLD,early
+GSM3998339,Liver patient 91,s5_Olivier-Govaere_S5,4,0,NASH_F0-F1,NAFLD,early
+GSM3998342,Liver control sample 4,085-Ann-Daly_S16,0,0,control,Control,control
+GSM3998345,Liver patient 141,C102-Ann-Daly_S3,2,0,NAFL,NAFLD,early
+GSM3998346,Liver patient 142,C103-Ann-Daly_S4,2,0,NAFL,NAFLD,early
+GSM3998349,Liver patient 145,C109-Ann-Daly_S7,1,0,NAFL,NAFLD,early
+GSM3998353,Liver patient 149,C124-Ann-Daly_S12,2,0,NAFL,NAFLD,early
+GSM3998361,Liver patient 157,C135-Ann-Daly_S6,1,0,NAFL,NAFLD,early
+GSM3998366,Liver patient 162,C145-Ann-Daly_S12,2,0,NAFL,NAFLD,early
