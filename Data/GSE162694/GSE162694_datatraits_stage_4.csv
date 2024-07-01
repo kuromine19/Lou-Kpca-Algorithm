@@ -1,0 +1,13 @@
+Sample Name,Title,Description,tissue,age,Sex,fibrosis stage,nas score
+GSM4957335,nash1119_F4 548nash1119,nash1119_F4,Liver,59,Female,4,NA
+GSM4957337,nash1120_F4 548nash1120,nash1120_F4,Liver,68,Female,4,NA
+GSM4957338,nash1121_F4 548nash1121,nash1121_F4,Liver,64,Female,4,NA
+GSM4957339,nash1122_F4 548nash1122,nash1122_F4,Liver,55,Male,4,NA
+GSM4957340,nash1123_F4 548nash1123,nash1123_F4,Liver,56,Female,4,NA
+GSM4957341,nash112_F4 548nash1124,nash112_F4,Liver,69,Male,4,NA
+GSM4957342,nash112_F4 548nash1125,nash112_F4,Liver,48,Male,4,NA
+GSM4957349,nash1131_F4 548nash1131,nash1131_F4,Liver,65,Female,4,4
+GSM4957360,nash116_F4 548nash116,nash116_F4,Liver,64,Male,4,6
+GSM4957366,nash1_F4 548nash144,nash1_F4,Liver,59,Female,4,NA
+GSM4957395,nash3_F4 548nash3,nash3_F4,Liver,61,Male,4,0
+GSM4957451,nash86_F4 548nash86,nash86_F4,Liver,62,Female,4,4
